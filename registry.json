@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "mode": "public-code-only",
+  "sources": [
+    {
+      "project": "QuizNote",
+      "access": "read-only",
+      "enabled": false
+    },
+    {
+      "project": "Octopus",
+      "access": "read-only",
+      "enabled": false
+    },
+    {
+      "project": "Ouroboros",
+      "access": "read-only",
+      "enabled": false
+    },
+    {
+      "project": "Cerberus",
+      "access": "read-only",
+      "enabled": false
+    },
+    {
+      "project": "Fenrir",
+      "access": "read-only",
+      "enabled": false
+    },
+    {
+      "project": "SteadyTrade",
+      "access": "read-only",
+      "enabled": false
+    }
+  ],
+  "schedule_enabled": false,
+  "auto_merge": false
+}
